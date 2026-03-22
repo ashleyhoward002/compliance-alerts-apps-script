@@ -2,7 +2,7 @@
 
 # 📧 Compliance Deadline Alert System
 
-A Google Apps Script automation that sends email reminders when staff certifications are about to expire. Built for healthcare compliance tracking at Michigan Medicine.
+A Google Apps Script automation that sends email reminders when staff certifications are about to expire. Built for healthcare compliance tracking.
 
 ## 🎯 Problem
 
